@@ -5,7 +5,7 @@ Start a virtual environment
 If you don't have a virtual environment, you can create one by following these steps:
 Open the integrated terminal in Visual Studio Code by clicking on View > Terminal or using the keyboard shortcut Ctrl + `` `.
 Create a virtual environment by running the following command in the terminal:
-python -m venv path/to/venv
+python -m venv path/to/venv or windows VSC python -m venv .venv and click ok to the prompt
 Replace path/to/venv with the desired path for your virtual environment.
 Activate the virtual environment by running the following command:
 source path/to/venv/bin/activate
